@@ -1,1 +1,2 @@
 # BeautifulReport
+將下载的檔案整份放入python安裝目錄下的Lib目錄即可
